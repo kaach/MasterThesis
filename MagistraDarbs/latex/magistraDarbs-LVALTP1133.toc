@@ -1,0 +1,43 @@
+\select@language {latvian}
+\contentsline {chapter}{Ievads}{5}
+\contentsline {chapter}{\numberline {1.}Izmantotie dati un pētāmais apgabals}{7}
+\contentsline {section}{\numberline {{1.1. }}Tālizpētes dati, attēls un tā izšķirtspējas veidi}{7}
+\contentsline {subsection}{\numberline {{1.1. }1. }Attēls un tā izšķirtspējas veidi}{7}
+\contentsline {section}{\numberline {{1.2. }}Izmantotie dati}{8}
+\contentsline {section}{\numberline {{1.3. }}Pētāmais apgabals}{8}
+\contentsline {chapter}{\numberline {2.}Zemes pārseguma atpazīšana augstas izšķirtspējas datos}{10}
+\contentsline {section}{\numberline {{2.1. }}Klasiskā pieeja: segmentācija un vadītā klasifikācija}{10}
+\contentsline {subsection}{\numberline {{2.1. }1. }Apmācības datu sagatavošana: deskriptoru rēķini}{10}
+\contentsline {subsubsection}{Deskriptori un tēli}{10}
+\contentsline {subsubsection}{Darbā izmantotie deskriptori}{11}
+\contentsline {subsubsection}{Praktiskā realizācija: datu sagatavošana un deskriptoru aprēķināšana}{11}
+\contentsline {paragraph}{Koordinātu pārrēķināšana reģionu failiem}{11}
+\contentsline {paragraph}{Deskriptoru aprēķināšana, izmantojot \textit {QGIS} programmatūru}{13}
+\contentsline {paragraph}{Deskriptoru matricu pēcapstrāde}{15}
+\contentsline {subsection}{\numberline {{2.1. }2. }JSEG un tā realizācija}{17}
+\contentsline {subsubsection}{JSEG metodes teorētiskais apskats}{17}
+\contentsline {paragraph}{Krāsu attēlu kvantizācija}{17}
+\contentsline {paragraph}{Labi segmentēta attēla nosacījums}{18}
+\contentsline {paragraph}{J-attēla izveide}{19}
+\contentsline {paragraph}{Reģionu audzēšana}{19}
+\contentsline {paragraph}{Reģionu apvienošana}{20}
+\contentsline {subsubsection}{JSEG metodes realizācija krāsu attēlu segmentācijā}{20}
+\contentsline {subsection}{\numberline {{2.1. }3. }K-tuvāko kaimiņu metode un tās realizācija}{27}
+\contentsline {subsubsection}{K-tuvāko kaimiņu metodes teorētisks apskats}{27}
+\contentsline {subsubsection}{K-tuvāko kaimiņu metodes pielietojums segmentētu reģionu klasifikācijā}{27}
+\contentsline {section}{\numberline {{2.2. }}Neironu tīklu pielietojums}{30}
+\contentsline {subsection}{\numberline {{2.2. }1. }Apmācības datu sagatavošana}{30}
+\contentsline {subsection}{\numberline {{2.2. }2. }Neironu tīkla teorētisks apskats}{32}
+\contentsline {subsubsection}{Bioloģiskie un mākslīgie neironi un tīkli}{32}
+\contentsline {subsubsection}{Konvolucionālie neironu tīkli}{35}
+\contentsline {paragraph}{Vietējie uztverošie laukumi}{35}
+\contentsline {paragraph}{Svaru dalīšana}{36}
+\contentsline {paragraph}{Savstarpējā izmantošana}{36}
+\contentsline {subsubsection}{Bibliotēka \textit {Tensorflow} un \textit {Inception} modelis}{37}
+\contentsline {subsection}{\numberline {{2.2. }3. }Neironu tīkla izmantošana JSEG reģionu klasifikācijai}{38}
+\contentsline {chapter}{\numberline {3.}Validācija un rezultāti}{43}
+\contentsline {section}{\numberline {{3.1. }}JSEG segmentācijas rezultātu klasifikācijas ar k-tuvāko kaimiņu metodi validācijas rezultāti}{44}
+\contentsline {section}{\numberline {{3.2. }}JSEG segmentācijas rezultātu klasifikācijas,izmantojot neironu tīklus, validācijas rezultāti}{45}
+\contentsline {chapter}{Secinājumi un priekšlikumi}{47}
+\contentsline {chapter}{Izmantotās literatūras un avotu saraksts}{48}
+\contentsline {chapter}{Galvojums}{49}
